@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHello", "..\lab1\ConsoleHello\ConsoleHello.csproj", "{A9824DB9-C7DA-4F7B-BD72-2D35AC224805}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHello", "ConsoleHello\ConsoleHello.csproj", "{A9824DB9-C7DA-4F7B-BD72-2D35AC224805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_2.2", "..\lab1\lab1_2.2\lab1_2.2.csproj", "{4689F932-B2E8-44C8-8351-88089E05A049}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_2.2", "lab1_2.2\lab1_2.2.csproj", "{4689F932-B2E8-44C8-8351-88089E05A049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_3.2", "..\lab1\lab1_3.2\lab1_3.2.csproj", "{F49EFC78-00F6-445E-B85E-ECC04BBC0148}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_3.2", "lab1_3.2\lab1_3.2.csproj", "{F49EFC78-00F6-445E-B85E-ECC04BBC0148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_4.2", "..\lab1\lab1_4.2\lab1_4.2.csproj", "{1ED859B1-BCE2-4B55-A128-8F866C51FE34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_4.2", "lab1_4.2\lab1_4.2.csproj", "{1ED859B1-BCE2-4B55-A128-8F866C51FE34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1Array", "..\lab1\Program1Array\Program1Array.csproj", "{CC3ADDA5-DA59-4CFF-8D30-CEF1E6E1131E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1Array", "Program1Array\Program1Array.csproj", "{CC3ADDA5-DA59-4CFF-8D30-CEF1E6E1131E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2Array", "..\lab1\Program2Array\Program2Array.csproj", "{A770C1E5-6B3E-4574-8EDE-A3367944BC5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2Array", "Program2Array\Program2Array.csproj", "{A770C1E5-6B3E-4574-8EDE-A3367944BC5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3CharString", "..\lab1\Program3CharString\Program3CharString.csproj", "{8AAA1A4B-58BF-43C8-B45B-9998C3C2EB03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3CharString", "Program3CharString\Program3CharString.csproj", "{8AAA1A4B-58BF-43C8-B45B-9998C3C2EB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program4StringBuilder", "..\lab1\Program4StringBuilder\Program4StringBuilder.csproj", "{1217B6C6-E90A-46B2-A314-92493984B4D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program4StringBuilder", "Program4StringBuilder\Program4StringBuilder.csproj", "{1217B6C6-E90A-46B2-A314-92493984B4D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program5Regex1", "..\lab1\Program5Regex1\Program5Regex1.csproj", "{2EE7F1FE-23E4-423F-A013-697450A78545}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program5Regex1", "Program5Regex1\Program5Regex1.csproj", "{2EE7F1FE-23E4-423F-A013-697450A78545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program6Regex2", "..\lab1\Program6Regex2\Program6Regex2.csproj", "{21894B07-A356-4BA4-8D2E-059E0ECD9756}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program6Regex2", "Program6Regex2\Program6Regex2.csproj", "{21894B07-A356-4BA4-8D2E-059E0ECD9756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7Regex3", "..\lab1\Program7Regex3\Program7Regex3.csproj", "{FD075230-4547-4C7E-837E-E0DC3EFB69CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7Regex3", "Program7Regex3\Program7Regex3.csproj", "{FD075230-4547-4C7E-837E-E0DC3EFB69CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7Regex4", "..\lab1\Program7Regex4\Program7Regex4.csproj", "{558DC260-4DF1-4F5D-A89C-45F88A3D02CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7Regex4", "Program7Regex4\Program7Regex4.csproj", "{558DC260-4DF1-4F5D-A89C-45F88A3D02CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program8Regex5", "..\lab1\Program8Regex5\Program8Regex5.csproj", "{66CB3BC9-6ABC-43DA-B9A9-133BAC3CA86C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program8Regex5", "Program8Regex5\Program8Regex5.csproj", "{66CB3BC9-6ABC-43DA-B9A9-133BAC3CA86C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
